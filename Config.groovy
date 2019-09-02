@@ -6,14 +6,14 @@ outputPath = 'docs'
 inputPath = '.'
 
 inputFiles = [
-        [file: 'arc42-template.adoc', formats: ['html', 'pdf', 'docbook']]
+        [file: 'index.adoc', formats: ['html', 'pdf', 'docbook']]
 ]
 
 taskInputsDirs = ["${inputPath}/src",
                   "${inputPath}/images",
 ]
 
-taskInputsFiles = ["${inputPath}/arc42-template.adoc"]
+taskInputsFiles = ["${inputPath}/index.adoc"]
 
 confluence = [:]
 confluence.with {
