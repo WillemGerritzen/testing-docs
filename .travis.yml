@@ -1,3 +1,4 @@
+script: ./bin/doctoolchain docs generateHTML
 deploy:
   provider: pages
   skip_cleanup: true
