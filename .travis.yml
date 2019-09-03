@@ -1,4 +1,12 @@
-script: ./doctoolchain docs generateHTML
+language: java
+install: true
+
+os: linux
+dist: trusty
+jdk: oraclejdk8
+
+script:
+  - ./gradlew --project-cache-dir .gradle -PdocDir=docs generateHTML
 deploy:
   provider: pages
   skip_cleanup: true
