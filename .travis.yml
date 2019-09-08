@@ -1,16 +1,17 @@
 language: java
 install: true
-
 os: linux
 dist: trusty
 jdk: oraclejdk8
-
 script:
-  - ./bin/doctoolchain . generateHTML
+- "./bin/doctoolchain . generateHTML"
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github_token: "$GITHUB_TOKEN"
   keep_history: true
   on:
     branch: master
+env:
+  global:
+    secure: RdwkrEA9w/BMZ8rXZmGRIgDJffZr1rRMr45FfqYay3Ht3X8Sfdam+Vpq82dbaTsY406O7iJlmGc0ZOvun/PJeyPhak9k/IGC5b8zAoA3sPHUp/HmNIiECD1oR5xcTDvrKA4mhGkouwlPswxorDoRMj7TBn0MpmOUQ5iJPkvzK+QUtK9VjOmUtzUXVNo4DZONX7VpiyRSIzgzVXl8IVXgQgNHiMG++ctIhvvdATighZPux5gg52x1cJgEqEOGGL3C4ZVEbFakSB5yQMn1MU3jqCpkgm/jcbi2yRO9NIbvGHVfNQVlW2/w9H+7HQp4PYs3FwIlHOXfVcGqsMmnBSkjV5RQg3A9j2RweR5S6wFtNiV0GOMzq2ELufDHRzbai34hwgM7A8rUtpBiiztCaZKd6z12QSdQKW6xe8+v/fZk8dOxanSXYizK7YzrB8nzKJ7lcDWPRfTe3vum+1igcA3oiakBiEEcYxiMMdDLq3PjlTI8XbrJiH5C4yogulu3a8vhqyZ0w1YF6vsY0U2r4cDTw/05D36gDL71ubGQU1gfnl83vr2eF6G0Mh18LR2ss2mTafdeEgtJi5fO8DT04tmV+ynqE5FZvsuOiGC4udrrMyJGfUvZ6HyebBfOaEkmtIhBS3Rorbd9Vpjmn0xy1ZhCswNuDuy1tcQHifGH8VBaIN0=
