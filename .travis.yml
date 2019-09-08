@@ -6,7 +6,7 @@ dist: trusty
 jdk: oraclejdk8
 
 script:
-  - ./gradlew --project-cache-dir .gradle -PdocDir=docs generateHTML
+  - ./bin/doctoolchain . generateHTML
 deploy:
   provider: pages
   skip_cleanup: true
