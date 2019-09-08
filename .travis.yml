@@ -6,7 +6,7 @@ dist: trusty
 jdk: oraclejdk8
 
 script:
-  - ./bin/doctoolchain . generateHTML
+  - ./deploy.sh
 deploy:
   provider: pages
   skip_cleanup: true
