@@ -9,6 +9,8 @@
 arc42, the Template for documentation of
 software and system architecture.
 
+IF YOU CAN READ ME, THE TEST WORKED
+
 By Dr. Gernot Starke, Dr. Peter Hruschka and contributors.
 
 
