@@ -13,7 +13,7 @@ we're here to help! Have a look at the diagram below, which gives you an
 overview of the different steps you, Picnic, and the Dutch government
 will be involved in for your smooth transition:
 
-image:checklist.png[Checklist]
+image::checklist.png[Checklist]
 
 === Getting to know Picnic
 

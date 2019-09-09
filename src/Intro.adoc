@@ -19,7 +19,7 @@ logistics, e-commerce retail and enterprise software. And thanks to our
 people-first attitude and a friendly delivery team, we become part of
 every neighbourhood we serve.
 
-image:epv_amersfoort.jpg[EPV Amersfoort]
+image::epv_amersfoort.jpg[EPV Amersfoort]
 
 === Rethinking how people buy food
 
@@ -36,7 +36,7 @@ urban logistics.
 With a data-driven approach and an app-only store, Picnic has become
 Europe's fastest growing online supermarket.
 
-image:epv_canal.jpg[EPV Canal]
+image::epv_canal.jpg[EPV Canal]
 
 === Disruptive Greengrocer. Humble Milkman
 
@@ -52,7 +52,7 @@ have a weekly user-testing session and a dedicated customer success
 team. This allows us to continue creating products that people love,
 complemented with first-class service and a modern flair.
 
-image:epv_windmill.jpg[EPV Windmill]
+image::epv_windmill.jpg[EPV Windmill]
 
 === Life @ Picnic
 

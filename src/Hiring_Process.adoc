@@ -9,7 +9,7 @@ and how you fit might into our team, so that once you're here, you'll be
 at your happiest and most productive. If you're curious to know how we
 make all this work, read on!
 
-image:GHHP1.png[Process_1]
+image::GHHP1.png[Process_1]
 
 === Application
 
@@ -28,7 +28,7 @@ Tracking System (recruiters like to sound smart and usually call it an
 ATS). We always aim to get back to you within 24 hours, but sometimes it
 can take up to 48 hours until you hear back from us.
 
-image:GHHP2.png[Process_2]
+image::GHHP2.png[Process_2]
 
 === First Test and Phone Screening
 
@@ -71,7 +71,7 @@ they should mention (gaps in your timeline, short periods of work,
 unfinished studies). If there is anything like that in your CV, make
 sure you're able to give us a quick explanation.
 
-image:GHHP3.png[Process_3]
+image::GHHP3.png[Process_3]
 
 === Main assignment
 
@@ -101,7 +101,7 @@ share their feedback with your recruiter, and together, they will decide
 whether to invite you to the last stage of the process: an on-site
 visit.
 
-image:GHHP4.png[Process_4]
+image::GHHP4.png[Process_4]
 
 === On-site visit
 
@@ -128,7 +128,7 @@ a sense of how the day is going, and before the final meeting with your
 recruiter, everyone involved in your process will meet to discuss your
 case and take a final decision.
 
-image:GHHP5.png[Process_5]
+image::GHHP5.png[Process_5]
 
 === Hired!
 

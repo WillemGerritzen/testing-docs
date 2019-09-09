@@ -1,6 +1,6 @@
 == Getting here 🛫
 
-image:planes.jpg[Airplane]
+image::planes.jpg[Airplane]
 
 Whether you're dropping by for a coffee, have interviews, or are
 starting on your first day, knowing how to get here is important. The
@@ -14,7 +14,7 @@ address: *Van Marwijk Kooystraat 15, 1114 AG, Amsterdam*
 
 === Amsterdam
 
-image:tp.png[Overview]
+image::tp.png[Overview]
 
 === Public transport websites
 
