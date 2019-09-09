@@ -1,9 +1,5 @@
 // header file for arc42-template,
 // including all help texts
-//
-// ====================================
-
-= image:arc42-logo.png[arc42] Template
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
@@ -25,9 +21,6 @@ endif::basebackend-html[]
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 
-
-include::src/about-arc42.adoc[]
-
 // horizontal line
 ***
 
@@ -42,16 +35,40 @@ For documentation of your own system you use better the _plain_ version.
 ****
 
 
-// numbering from here on
+//Begin numbering
 :numbered:
-TTTTTTEEEEESSSTTT
-Hello world again
-<<<<
-// 1. Introduction and Goals
-include::src/01_introduction_and_goals.adoc[]
 
 <<<<
-// 2. Architecture Constraints
-include::src/02_architecture_constraints.adoc[]
+// 1. Introduction
+include::src/start.adoc[]
 
+<<<<
+// 2. What is Picnic?
+include::src/Intro.adoc[]
 
+<<<<
+// 3. What you'll love about working @ Picnic
+include::src/What_love_Picnic.adoc[]
+
+<<<<
+// 4. Curious about our tech stack?
+include::src/Tech_Stack.adoc[]
+
+<<<<
+// 5. Picnic's Hiring Experience
+include::src/Hiring_Process.adoc[]
+
+<<<<
+// 6. Getting here
+include::src/map.adoc[]
+
+<<<<
+// 7. Onboarding
+include::src/onboarding.adoc[]
+
+<<<<
+// 8. Still hungry?
+include::src/hungry.adoc[]
+
+// About arc42
+include::src/about-arc42.adoc[]
