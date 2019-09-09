@@ -10,7 +10,6 @@ inputFiles = [
 ]
 
 taskInputsDirs = ["${inputPath}/src",
-                  "${inputPath}/images",
 ]
 
 taskInputsFiles = ["${inputPath}/index.adoc"]

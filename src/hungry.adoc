@@ -1,0 +1,40 @@
+== Still hungry? 🍔
+
+Went through the whole repository and still want more? Was a question
+you have left unanswered? Then maybe the following can help:
+
+https://join.picnic.app[Career Site]
+
+All our available jobs are listed here, along with lots of more
+information about us. This is also where to go to apply. 😉
+
+https://www.meetup.com/Meetinup-Picnic/[Meetup Group]
+
+If you're in or around Amsterdam, you're welcome to join us. Entrance is
+free, and we guarantee beer and snacks (on us!). 🤑
+
+https://blog.picnic.nl/[Engineering blog]
+
+If you want to stay appraised of the latest and coolest things we
+develop, make sure to keep an eye on our engineering blog.
+
+https://medium.com/lifes-a-picnic[Life is a Picnic]
+
+The amazing things that happen in ou offices, supply chain, and anywhere
+else that is not related to tech can be found here
+
+=== Social Media
+
+* https://twitter.com/picnic[Twitter]
+* https://www.facebook.com/picnicNL[Facebook]
+* https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ[YouTube]
+* https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
+
+=== More
+
+* link:Intro.adoc[Picnic - An Introduction]
+* link:Tech_Stack.adoc[Tech Stack]
+* link:Hiring_Process.adoc[Picnic's Hiring Experience]
+* link:onboarding.adoc[Onboarding]
+* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
+* link:map.adoc[Getting here]
