@@ -22,6 +22,6 @@ don't hesitate to get in touch: willem.gerritzen@teampicnic.com.
 
 * Willem (Tech Recruiter @ Picnic)
 
-https://join.picnic.app [image::Picnic_logo.png[Picnic Logo]]
+https://join.picnic.app [image:Picnic_logo.png[Picnic Logo]]
 
 === Tech's answer to groceries! 🥑🥐🍎
