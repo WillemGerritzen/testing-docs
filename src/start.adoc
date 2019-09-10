@@ -20,10 +20,10 @@ excited about can be found here:
 Of course, if you have any questions, concerns or suggestions, please
 don't hesitate to get in touch: willem.gerritzen@teampicnic.com.
 
- Willem (Tech Recruiter @ Picnic)
+Willem (Tech Recruiter @ Picnic)
 
 https://join.picnic.app 
 
-[image:Picnic_logo.png[Picnic Logo]]
+image:Picnic_logo.png[]
 
- Tech's answer to groceries! 🥑🥐🍎
+Tech's answer to groceries! 🥑🥐🍎
