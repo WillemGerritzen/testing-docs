@@ -1,4 +1,4 @@
-﻿== The Picnic Recruitment Repository
+﻿= The Picnic Recruitment Repository
 
 Hi there,
 
@@ -20,8 +20,10 @@ excited about can be found here:
 Of course, if you have any questions, concerns or suggestions, please
 don't hesitate to get in touch: willem.gerritzen@teampicnic.com.
 
-* Willem (Tech Recruiter @ Picnic)
+ Willem (Tech Recruiter @ Picnic)
 
-https://join.picnic.app [image:Picnic_logo.png[Picnic Logo]]
+https://join.picnic.app 
 
-=== Tech's answer to groceries! 🥑🥐🍎
+[image:Picnic_logo.png[Picnic Logo]]
+
+ Tech's answer to groceries! 🥑🥐🍎
