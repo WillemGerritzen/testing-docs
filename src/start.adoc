@@ -1,5 +1,12 @@
 ﻿= The Picnic Recruitment Repository
 
+// asciidoc settings for EN (English)
+// ==================================
+:toc-title: Table of Contents
+
+// enable table-of-contents
+:toc: left
+
 Hi there,
 
 Thanks for checking out our recruitment repo! Here, you will find all
