@@ -1,6 +1,3 @@
-// toc-title definition MUST follow document title without blank line!
-:toc-title: Table of Contents
-
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 

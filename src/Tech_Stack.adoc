@@ -3,7 +3,7 @@
 👩‍💻 *Infrastructure as Code*
 
 Due to the nature of our business, along with our quick growth, new
-environments are deployed on a weekly basis (e.g.┬áa new hub opening in
+environments are deployed on a weekly basis (e.g. new hub opening in
 Amsterdam, a new Fulfilment Centre in Rotterdam or a new office in
 Germany). Infrastructure as code enables us to apply Software
 Engineering methodologies to infrastructure processes and deployments.
