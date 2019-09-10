@@ -1,73 +1,41 @@
-// header file for arc42-template,
-// including all help texts
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
-
-//additional style for arc42 help callouts
-ifdef::basebackend-html[]
-++++
-<style>
-.arc42help {font-size:small; width: 14px; height: 16px; overflow: hidden; position: absolute; right: 0px; padding: 2px 0px 3px 2px;}
-.arc42help::before {content: "?";}
-.arc42help:hover {width:auto; height: auto; z-index: 100; padding: 10px;}
-.arc42help:hover::before {content: "";}
-@media print {
-	.arc42help {display:hidden;}
-}
-</style>
-++++
-endif::basebackend-html[]
 
 // configure EN settings for asciidoc
 include::src/config.adoc[]
 
-// horizontal line
-***
-
-[role="arc42help"]
-****
-[NOTE]
-====
-This version of the template contains some help and explanations.
-It is used for familiarization with arc42 and the understanding of the concepts.
-For documentation of your own system you use better the _plain_ version.
-====
-****
-
+// Introduction
+include::src/start.adoc[]
 
 //Begin numbering
 :numbered:
 
 <<<<
-// 1. Introduction
-include::src/start.adoc[]
-
-<<<<
-// 2. What is Picnic?
+// 1. What is Picnic?
 include::src/Intro.adoc[]
 
 <<<<
-// 3. What you'll love about working @ Picnic
+// 2. What you'll love about working @ Picnic
 include::src/What_love_Picnic.adoc[]
 
 <<<<
-// 4. Curious about our tech stack?
+// 3. Curious about our tech stack?
 include::src/Tech_Stack.adoc[]
 
 <<<<
-// 5. Picnic's Hiring Experience
+// 4. Picnic's Hiring Experience
 include::src/Hiring_Process.adoc[]
 
 <<<<
-// 6. Getting here
+// 5. Getting here
 include::src/map.adoc[]
 
 <<<<
-// 7. Onboarding
+// 6. Onboarding
 include::src/onboarding.adoc[]
 
 <<<<
-// 8. Still hungry?
+// 7. Still hungry?
 include::src/hungry.adoc[]
 
 // About arc42
