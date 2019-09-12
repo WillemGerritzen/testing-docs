@@ -7,6 +7,8 @@
 // enable table-of-contents
 :toc: left
 
+image:bannerpicnic.png[]
+
 Hi there,
 
 Thanks for checking out our recruitment repo! Here, you will find all
@@ -31,6 +33,6 @@ Willem (Tech Recruiter @ Picnic)
 
 https://join.picnic.app 
 
-image:Picnic_logo.png[]
+
 
 Tech's answer to groceries! 🥑🥐🍎
