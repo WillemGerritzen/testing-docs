@@ -1,38 +1,10 @@
-﻿= The Picnic Recruitment Repository
-
-// asciidoc settings for EN (English)
+﻿// asciidoc settings for EN (English)
 // ==================================
-:toc-title: Table of Contents
+:toc-title: Overview
 
 // enable table-of-contents
 :toc: left
 
 image:bannerpicnic.png[]
-
-Hi there,
-
-Thanks for checking out our recruitment repo! Here, you will find all
-the information you need to have the best experience possible.
-
-From an explanation of what Picnic is and does, to the hiring process
-you will go through, everything you might be curious, worried, or
-excited about can be found here:
-
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
-* link:hungry.adoc[Still hungry?]
-
-Of course, if you have any questions, concerns or suggestions, please
-don't hesitate to get in touch: willem.gerritzen@teampicnic.com.
-
-Willem (Tech Recruiter @ Picnic)
-
-https://join.picnic.app 
-
-
 
 Tech's answer to groceries! 🥑🥐🍎
