@@ -29,12 +29,3 @@ for it. Just check out our http://picnic.tech/[Github page].
 Then you can review our full
 https://stackshare.io/picnic-technologies[image:https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat[StackShare]]
 or read our https://blog.picnic.nl/[Engineering Blog].
-
-=== More:
-
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
-* link:hungry.adoc[Still hungry?]

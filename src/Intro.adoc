@@ -63,12 +63,3 @@ By bringing minds with assorted backgrounds together, we unlock the
 potential of diversity. From data scientists, analysts, in-house
 consultants, to software developers, everyone combines forces to bring
 simplicity out of complexity and run company changing projects.
-
-=== More:
-
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
-* link:hungry.adoc[Still hungry?]

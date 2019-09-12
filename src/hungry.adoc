@@ -29,12 +29,3 @@ else that is not related to tech can be found here
 * https://www.facebook.com/picnicNL[Facebook]
 * https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ[YouTube]
 * https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
-
-=== More
-
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
