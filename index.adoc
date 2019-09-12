@@ -4,9 +4,6 @@ include::src/config.adoc[]
 // Introduction
 include::src/start.adoc[]
 
-//Begin numbering
-:numbered:
-
 <<<<
 // 1. What is Picnic?
 include::src/Intro.adoc[]
