@@ -19,10 +19,10 @@ image::tp.png[Overview]
 === Public transport websites
 
 [link=https://www.ns.nl/en]
-image::NS.png[align="right"]
+image::NS.png[align="right", 200, 200]
 
 [link=https://www.gvb.nl/]
-image::Logo-GVB.png[align="center"]
+image::Logo-GVB.png[align="center", 200, 200]
 
 [link=https://9292.nl/]
-image::9292.png[align="left"]
+image::9292.png[align="left", 200, 200]
