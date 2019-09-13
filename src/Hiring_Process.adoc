@@ -90,7 +90,7 @@ remember, at Picnic, we like efficient asnwers, so avoid
 over-engineering. ;)
 ** Time limit: Officially, there is no deadline. Your time to submit
 will *never* be taken into account, so if you think you're done but
-could still use some time to polish a couple things, do not hesitate to
+could still use some time to polish a couple of things, do not hesitate to
 take that time. However, after about a week without any contact, your
 recruiter may come back to you to check-in and see if you need any help.
 * What happens in the background:

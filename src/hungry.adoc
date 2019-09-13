@@ -25,7 +25,18 @@ else that is not related to tech can be found here
 
 === Social Media
 
+* https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
 * https://twitter.com/picnic[Twitter]
 * https://www.facebook.com/picnicNL[Facebook]
 * https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ[YouTube]
-* https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
+
+==== A curated selection from our YouTube page
+
+.Picnic: Tech's answer to groceries
+video::x3Ma_KG1Bxs[youtube]
+
+.Summer Tech BBQ
+video::f5ODivxvhOY[youtube]
+
+.Summer Party '19 After movie
+video::XxJOUjKJrFk[youtube]
