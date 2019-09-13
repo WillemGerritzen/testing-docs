@@ -28,12 +28,12 @@ else that is not related to tech can be found here
 * https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
 * https://twitter.com/picnic[Twitter]
 * https://www.facebook.com/picnicNL[Facebook]
-* https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ[YouTube]
+* https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ/videos[YouTube]
 
 ==== A curated selection from our YouTube page
 
 .Picnic: Tech's answer to groceries
-video::x3Ma_KG1Bxs[youtube]
+video::x3Ma_KG1Bxs[youtube, 720, 405]
 
 .Summer Tech BBQ
 video::f5ODivxvhOY[youtube]
