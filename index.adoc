@@ -5,32 +5,33 @@ include::src/config.adoc[]
 include::src/start.adoc[]
 
 <<<<
-// 1. What is Picnic?
+// What is Picnic?
 include::src/Intro.adoc[]
 
 <<<<
-// 2. What you'll love about working @ Picnic
+// What you'll love about working @ Picnic
 include::src/What_love_Picnic.adoc[]
 
 <<<<
-// 3. Curious about our tech stack?
+// Curious about our tech stack?
 include::src/Tech_Stack.adoc[]
 
 <<<<
-// 4. Picnic's Hiring Experience
+// Picnic's Hiring Experience
 include::src/Hiring_Process.adoc[]
 
 <<<<
-// 5. Getting here
+// Getting here
 include::src/map.adoc[]
 
 <<<<
-// 6. Onboarding
+// Onboarding
 include::src/onboarding.adoc[]
 
 <<<<
-// 7. Still hungry?
+// Still hungry?
 include::src/hungry.adoc[]
 
+<<<<
 // About arc42
 include::src/about-arc42.adoc[]

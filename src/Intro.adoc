@@ -21,8 +21,6 @@ every neighbourhood we serve.
 
 image::epv_amersfoort.jpg[EPV Amersfoort]
 
-*Rethinking how people buy food*
-
 Technology, smart planning, and a fleet of electric vehicles lead to
 less food waste and fewer food miles. Picnic is competitive and
 sustainable.
@@ -38,8 +36,6 @@ Europe's fastest growing online supermarket.
 
 image::epv_canal.jpg[EPV Canal]
 
-*Disruptive Greengrocer. Humble Milkman*
-
 We value freedom and responsibility. There's always room to design
 unique solutions and upset the status quo. In a dynamic atmosphere,
 diverse teams collaborate on projects, taking ideas from the drawing
@@ -53,8 +49,6 @@ team. This allows us to continue creating products that people love,
 complemented with first-class service and a modern flair.
 
 image::epv_windmill.jpg[EPV Windmill]
-
-*Life @ Picnic*
 
 At Picnic, our team works hard on a rewarding project: to lead a grocery
 revolution in a tech-driven, sustainable, and affordable way.
