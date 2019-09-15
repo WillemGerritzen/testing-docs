@@ -15,7 +15,7 @@ ifdef::basebackend-html[]
 @media print {
 	.arc42help {display:hidden;}
 }
-* {     font-family: Roboto,sans-serif; }
+* {font-family: Roboto,sans-serif;}
 </style>
 ++++
 endif::basebackend-html[]
