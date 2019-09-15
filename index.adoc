@@ -3,6 +3,7 @@
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
+
 //additional style for arc42 help callouts
 ifdef::basebackend-html[]
 ++++
@@ -14,6 +15,7 @@ ifdef::basebackend-html[]
 @media print {
 	.arc42help {display:hidden;}
 }
+* {     font-family: Roboto,sans-serif; }
 </style>
 ++++
 endif::basebackend-html[]
