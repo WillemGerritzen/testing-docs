@@ -9,7 +9,7 @@ inputFiles = [
         [file: 'index.adoc', formats: ['html', 'pdf', 'docbook']]
 ]
 
-taskInputsDirs = ["${inputPath}/src",
+taskInputsDirs = ["${inputPath}",
 ]
 
 taskInputsFiles = ["${inputPath}/index.adoc"]

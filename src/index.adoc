@@ -21,7 +21,7 @@ ifdef::basebackend-html[]
 endif::basebackend-html[]
 
 // configure EN settings for asciidoc
-include::src/config.adoc[]
+include::config.adoc[]
 
 // horizontal line
 ***
@@ -42,35 +42,35 @@ For documentation of your own system you use better the _plain_ version.
 
 <<<<
 // 1. Introduction
-include::src/start.adoc[]
+include::pages/start.adoc[]
 
 <<<<
 // 2. What is Picnic?
-include::src/Intro.adoc[]
+include::pages/Intro.adoc[]
 
 <<<<
 // 3. What you'll love about working @ Picnic
-include::src/What_love_Picnic.adoc[]
+include::pages/What_love_Picnic.adoc[]
 
 <<<<
 // 4. Curious about our tech stack?
-include::src/Tech_Stack.adoc[]
+include::pages/Tech_Stack.adoc[]
 
 <<<<
 // 5. Picnic's Hiring Experience
-include::src/Hiring_Process.adoc[]
+include::pages/Hiring_Process.adoc[]
 
 <<<<
 // 6. Getting here
-include::src/map.adoc[]
+include::pages/map.adoc[]
 
 <<<<
 // 7. Onboarding
-include::src/onboarding.adoc[]
+include::pages/onboarding.adoc[]
 
 <<<<
 // 8. Still hungry?
-include::src/hungry.adoc[]
+include::pages/hungry.adoc[]
 
 // About arc42
-include::src/about-arc42.adoc[]
+include::pages/about-arc42.adoc[]
