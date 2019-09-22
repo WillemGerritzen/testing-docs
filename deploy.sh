@@ -1,6 +1,3 @@
-gradle generateHTML
-mkdir remove
-mv ./* remove
-mv remove/docs/html5/* .
-mv remove/CNAME .
-rm -rf remove
+./docToolchain/bin/doctoolchain ./src generateHTML
+mv src/docs/html5/* .
+rm -rf src docToolchain
