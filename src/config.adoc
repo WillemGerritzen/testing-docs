@@ -1,2 +1,8 @@
 // where are images located?
 :imagesdir: ./images
+
+// Take out footer
+:nofooter:
+
+// Name table of content
+:toc-title: Overview

@@ -1,10 +1,3 @@
-// header file for arc42-template,
-// including all help texts
-// toc-title definition MUST follow document title without blank line!
-:toc-title: Overview
-
-
-//additional style for arc42 help callouts
 ifdef::basebackend-html[]
 ++++
 <style>
@@ -16,37 +9,26 @@ endif::basebackend-html[]
 // configure EN settings for asciidoc
 include::config.adoc[]
 
-
 // 1. Introduction
 include::pages/start.adoc[]
 
- 
 // 2. What is Picnic?
 include::pages/Intro.adoc[]
-
 
 // 3. What you'll love about working @ Picnic
 include::pages/What_love_Picnic.adoc[]
 
-
 // 4. Curious about our tech stack?
 include::pages/Tech_Stack.adoc[]
-
 
 // 5. Picnic's Hiring Experience
 include::pages/Hiring_Process.adoc[]
 
-
 // 6. Getting here
 include::pages/map.adoc[]
-
 
 // 7. Onboarding
 include::pages/onboarding.adoc[]
 
-
 // 8. Still hungry?
 include::pages/hungry.adoc[]
-
-// About arc42
-include::pages/about-arc42.adoc[]

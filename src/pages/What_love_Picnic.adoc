@@ -21,7 +21,7 @@ emissions. Making cities and neighbours greener, cleaner and safer.
 👨🏽‍🎨👩‍💼👩🏻‍🔧 *Work in cross-functional teams, revolving around products:*
 
 Owning an entire supply chain and running all software in-house means we
-have many products (e.g.┬áour Warehouse Management System, the Purchase
+have many products (e.g. our Warehouse Management System, the Purchase
 Order Management, or the customer-facing app). Each of which is handled
 by complementary teams of front- and back-end engineers working together
 to get the best possible results.
