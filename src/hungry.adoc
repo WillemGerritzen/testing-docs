@@ -33,7 +33,7 @@ else that is not related to tech can be found here
 ==== A curated selection from our YouTube page
 
 .Picnic: Tech's answer to groceries
-video::x3Ma_KG1Bxs[youtube, 720, 405]
+video::x3Ma_KG1Bxs[youtube]
 
 .Summer Tech BBQ
 video::f5ODivxvhOY[youtube]
