@@ -6,5 +6,3 @@
 :toc: left
 
 image:bannerpicnic.png[]
-
-Tech's answer to groceries! 🥑🥐🍎
