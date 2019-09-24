@@ -25,15 +25,15 @@ include::config.adoc[]
 
 <<<<
 // What you'll love about working @ Picnic
-include::src/What_love_Picnic.adoc[]
+include::pages/What_love_Picnic.adoc[]
 
 <<<<
 // Curious about our tech stack?
-include::src/Tech_Stack.adoc[]
+include::pages/Tech_Stack.adoc[]
 
 <<<<
 // Picnic's Hiring Experience
-include::src/Hiring_Process.adoc[]
+include::pages/Hiring_Process.adoc[]
 
 //Begin numbering
 :numbered:
