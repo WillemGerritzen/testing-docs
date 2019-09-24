@@ -1,0 +1,74 @@
+// header file for arc42-template,
+// including all help texts
+// toc-title definition MUST follow document title without blank line!
+:toc-title: Table of Contents
+
+
+//additional style for arc42 help callouts
+ifdef::basebackend-html[]
+++++
+<style>
+.arc42help {font-size:small; width: 14px; height: 16px; overflow: hidden; position: absolute; right: 0px; padding: 2px 0px 3px 2px;}
+.arc42help::before {content: "?";}
+.arc42help:hover {width:auto; height: auto; z-index: 100; padding: 10px;}
+.arc42help:hover::before {content: "";}
+@media print {
+	.arc42help {display:hidden;}
+}
+* {font-family: Roboto,sans-serif;}
+</style>
+++++
+endif::basebackend-html[]
+
+// configure EN settings for asciidoc
+include::config.adoc[]
+
+<<<<
+// What you'll love about working @ Picnic
+include::src/What_love_Picnic.adoc[]
+
+<<<<
+// Curious about our tech stack?
+include::src/Tech_Stack.adoc[]
+
+<<<<
+// Picnic's Hiring Experience
+include::src/Hiring_Process.adoc[]
+
+//Begin numbering
+:numbered:
+
+<<<<
+// 1. Introduction
+include::pages/start.adoc[]
+
+<<<<
+// 2. What is Picnic?
+include::pages/Intro.adoc[]
+
+<<<<
+// 3. What you'll love about working @ Picnic
+include::pages/What_love_Picnic.adoc[]
+
+<<<<
+// 4. Curious about our tech stack?
+include::pages/Tech_Stack.adoc[]
+
+<<<<
+// 5. Picnic's Hiring Experience
+include::pages/Hiring_Process.adoc[]
+
+<<<<
+// 6. Getting here
+include::pages/map.adoc[]
+
+<<<<
+// 7. Onboarding
+include::pages/onboarding.adoc[]
+
+<<<<
+// 8. Still hungry?
+include::pages/hungry.adoc[]
+
+// About arc42
+include::pages/about-arc42.adoc[]

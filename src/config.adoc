@@ -1,11 +1,2 @@
 // where are images located?
 :imagesdir: ./images
-
-// favicon
-:favicon: ./images/favicon.png
-
-// Name of webpage
-:doctitle: 
-
-// Remove footer
-:nofooter:
