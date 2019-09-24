@@ -23,50 +23,35 @@ endif::basebackend-html[]
 // configure EN settings for asciidoc
 include::config.adoc[]
 
-<<<<
-// What you'll love about working @ Picnic
-include::pages/What_love_Picnic.adoc[]
 
-<<<<
-// Curious about our tech stack?
-include::pages/Tech_Stack.adoc[]
-
-<<<<
-// Picnic's Hiring Experience
-include::pages/Hiring_Process.adoc[]
-
-//Begin numbering
-:numbered:
-
-<<<<
 // 1. Introduction
 include::pages/start.adoc[]
 
-<<<<
+ 
 // 2. What is Picnic?
 include::pages/Intro.adoc[]
 
-<<<<
+
 // 3. What you'll love about working @ Picnic
 include::pages/What_love_Picnic.adoc[]
 
-<<<<
+
 // 4. Curious about our tech stack?
 include::pages/Tech_Stack.adoc[]
 
-<<<<
+
 // 5. Picnic's Hiring Experience
 include::pages/Hiring_Process.adoc[]
 
-<<<<
+
 // 6. Getting here
 include::pages/map.adoc[]
 
-<<<<
+
 // 7. Onboarding
 include::pages/onboarding.adoc[]
 
-<<<<
+
 // 8. Still hungry?
 include::pages/hungry.adoc[]
 
