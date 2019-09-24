@@ -25,16 +25,18 @@ else that is not related to tech can be found here
 
 === Social Media
 
+* https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
 * https://twitter.com/picnic[Twitter]
 * https://www.facebook.com/picnicNL[Facebook]
-* https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ[YouTube]
-* https://www.linkedin.com/company/picnictechnologies/[LinkedIn]
+* https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ/videos[YouTube]
 
-=== More
+==== A curated selection from our YouTube page
 
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
+.Picnic: Tech's answer to groceries
+video::x3Ma_KG1Bxs[youtube]
+
+.Summer Tech BBQ
+video::f5ODivxvhOY[youtube]
+
+.Summer Party '19 After movie
+video::XxJOUjKJrFk[youtube]

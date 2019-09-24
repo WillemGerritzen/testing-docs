@@ -18,11 +18,11 @@ image::tp.png[Overview]
 
 === Public transport websites
 
-=== More
+[link=https://9292.nl/]
+image::9292.png[float="left", 150, 150]
 
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:hungry.adoc[Still hungry?]
+[link=https://www.gvb.nl/]
+image::Logo-GVB.png[float="left", 150, 150]
+
+[link=https://www.ns.nl/en]
+image::NS.png[float="left", 150, 150]

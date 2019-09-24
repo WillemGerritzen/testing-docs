@@ -66,12 +66,3 @@ discuss a new technology, and where everyone shares their knowledge.
 Or maybe you'd like to improve your professional skills? Then join the
 Picnic Fundamentals Program, where you'll get to learn all the basics of
 the professional world with online content and classroom workshops.
-
-=== More
-
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:onboarding.adoc[Onboarding]
-* link:map.adoc[Getting here]
-* link:hungry.adoc[Still hungry?]

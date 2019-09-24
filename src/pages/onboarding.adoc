@@ -17,7 +17,7 @@ image::checklist.png[Checklist]
 
 === Getting to know Picnic
 
-So you're done moving (or were already here ≡ƒÿë), and you're ready for
+So you're done moving (or were already here 😉), and you're ready for
 your first day. Curious what to expect? Have a look:
 
 * *Monday*: On day your first day, you'll receive a warm welcome, a
@@ -47,14 +47,5 @@ from your team, to encourage intra company connectivity.
 Here is what you can expect from your buddy:
 
 * You'll share a coffee on your _first_ day.
-* Your'll check-in with one another _once_ per week.
+* You'll check-in with one another _once_ per week.
 * An approachable person who will enjoy answering any questions.
-
-=== More
-
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:Hiring_Process.adoc[Picnic's Hiring Experience]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
-* link:hungry.adoc[Still hungry?]

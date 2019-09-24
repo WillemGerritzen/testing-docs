@@ -23,7 +23,7 @@ studied, etc.). This will help us make a more informed and faster
 decision.
 * What happens in the background:
 +
-Once you've clicked ``Send'', your application ends up in our Applicant
+Once you've clicked "Send", your application ends up in our Applicant
 Tracking System (recruiters like to sound smart and usually call it an
 ATS). We always aim to get back to you within 24 hours, but sometimes it
 can take up to 48 hours until you hear back from us.
@@ -90,7 +90,7 @@ remember, at Picnic, we like efficient asnwers, so avoid
 over-engineering. ;)
 ** Time limit: Officially, there is no deadline. Your time to submit
 will *never* be taken into account, so if you think you're done but
-could still use some time to polish a couple things, do not hesitate to
+could still use some time to polish a couple of things, do not hesitate to
 take that time. However, after about a week without any contact, your
 recruiter may come back to you to check-in and see if you need any help.
 * What happens in the background:
@@ -135,13 +135,4 @@ image::GHHP5.png[Process_5]
 Amazing news! We've made you an offer, and in your infinite wisdom,
 you've decided to accept it. At this point, the People Team will assist
 you with everything you need during your transition period. For more
-information on this, have a look link:onboarding.md[here].
-
-=== More
-
-* link:Intro.adoc[Picnic - An Introduction]
-* link:Tech_Stack.adoc[Tech Stack]
-* link:onboarding.adoc[Onboarding]
-* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
-* link:map.adoc[Getting here]
-* link:hungry.adoc[Still hungry?]
+information on this, have a look <<onboarding.adoc#Onboarding, here>>.
