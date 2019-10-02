@@ -11,7 +11,7 @@ information about us. This is also where to go to apply. 😉
 https://www.meetup.com/Meetinup-Picnic/[Meetup Group]
 
 If you're in or around Amsterdam, you're welcome to join us. Entrance is
-free, and we guarantee beer and snacks (on us!). 🤑
+free, and we guarantee beers and snacks (on us!). 🤑
 
 https://blog.picnic.nl/[Engineering blog]
 
@@ -20,7 +20,7 @@ develop, make sure to keep an eye on our engineering blog.
 
 https://medium.com/lifes-a-picnic[Life is a Picnic]
 
-The amazing things that happen in ou offices, supply chain, and anywhere
+The amazing things that happen in our offices, supply chain, and anywhere
 else that is not related to tech can be found here
 
 === Social Media
@@ -30,7 +30,7 @@ else that is not related to tech can be found here
 * https://www.facebook.com/picnicNL[Facebook]
 * https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ/videos[YouTube]
 
-==== A curated selection from our YouTube page
+==== A curated selection from our YouTube channel
 
 .Picnic: Tech's answer to groceries
 video::x3Ma_KG1Bxs[youtube]
