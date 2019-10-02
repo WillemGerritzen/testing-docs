@@ -33,10 +33,10 @@ else that is not related to tech can be found here
 ==== A curated selection from our YouTube channel
 
 .Picnic: Tech's answer to groceries
-video::x3Ma_KG1Bxs[youtube, float="left", 720, 540]
+video::x3Ma_KG1Bxs[youtube, float="left", 640, 480]
 
 .Summer Tech BBQ
-video::f5ODivxvhOY[youtube, float="left", 720, 540]
+video::f5ODivxvhOY[youtube, float="left", 640, 480]
 
 .Summer Party '19 After movie
-video::XxJOUjKJrFk[youtube, float="left", 720, 540]
+video::XxJOUjKJrFk[youtube, float="left", 640, 480]
